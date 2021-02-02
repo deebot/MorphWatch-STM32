@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name CJ2301_S1)(type Legacy)(uri /home/bonjovi/kicadlibs/ProjectLibs/LIB_CJ2301_S1/CJ2301_S1/KiCad/CJ2301_S1.mod)(options "")(descr ""))
+  (lib (name S8050)(type Legacy)(uri /home/bonjovi/kicadlibs/ProjectLibs/LIB_S8050/S8050/KiCad/S8050.mod)(options "")(descr ""))
+  (lib (name USBLCSC)(type KiCad)(uri /home/bonjovi/kicadlibs/ProjectLibs/USBLCSC.pretty)(options "")(descr ""))
+)

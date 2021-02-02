@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# DIODE-adafruit
+#
+DEF DIODE-adafruit D 0 40 N N 1 L N
+F0 "D" -100 100 45 H V L BNN
+F1 "DIODE-adafruit" -100 -150 45 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ *DO-1N4148*
+ *SMADIODE*
+ *SOD-123*
+ *SOD-323F*
+ *SOD-123FL*
+$ENDFPLIST
+DRAW
+P 2 1 0 0 -50 -50 50 0 N
+P 2 1 0 0 -50 50 -50 -50 N
+P 2 1 0 0 50 0 -50 50 N
+P 2 1 0 0 50 0 50 -50 N
+P 2 1 0 0 50 50 50 0 N
+X A A -100 0 100 R 40 40 1 1 P
+X C C 100 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
