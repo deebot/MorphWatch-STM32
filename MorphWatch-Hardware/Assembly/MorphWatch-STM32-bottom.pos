@@ -1,0 +1,7 @@
+### Module positions - created on Thu Feb  4 03:56:58 2021 ###
+### Printed by Pcbnew version kicad 5.1.9-73d0e3b20d~88~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                    PosX       PosY       Rot  Side
+U3        JDY-08    JDY-08_HandSoldering  -131.0640   -77.7875  180.0000  bottom
+## End
