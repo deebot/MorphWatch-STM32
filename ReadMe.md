@@ -51,6 +51,17 @@ Uploading the code is possible though USB in DFU mode by connecting the Boot Pin
 - [ ] Exploring Low power modes of L476RG
 
 
+## Story Behind : 
+### A little story telling:
+
+  Morph watch is inpired by [Watchy|SQFMI ](https://www.crowdsupply.com/sqfmi/watchy) which you can also back on crowdsource as on today 1Feb2021. For a long time i wanted to build my own smart watch which is hackable. My idea was to have a development board which is also a product in itself with certain concrete functionality and that is why i narrowed down on having a watch because i can have it on me as a watch but it can also be something else, a learning tool and its functionality can be extended by adding mods to it. 
+### Why I chose what i chose
+  I chose to build Morph Watch on STM32 L476RG which is based on ARM cortex M4. I have  some sort of romatisim for ARM architecture and  its not long since i have shifted from 8 bit segment to more capable 32 bit controllers which i often see in tear down of professional products, infact the Pebble watch was based on a STM32 microntroller and TI's bluetooth chip. While ESP32 with Arduino IDE are very easy to use but I now prefer more serious debugging techniques using Debugger and breakpoints which is supported on this board.
+
+
+
+
+
 
 
 
